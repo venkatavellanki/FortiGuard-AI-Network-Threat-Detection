@@ -30,7 +30,7 @@ FortiGuard-AI-Network-Threat-Detection/
 ├── docs/                   # Architecture, reports, review PPTs
 ├── src/                    # Python and notebook code
 ├── models/                 # Trained model files (.pkl)
-├── data/                   # Dataset (if shared)
+├── data/                   # Dataset 
 ├── outputs/                # Graphs, classification reports
 ├── README.md
 ├── .gitignore
