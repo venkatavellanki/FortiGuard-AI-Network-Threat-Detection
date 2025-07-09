@@ -43,30 +43,33 @@ FortiGuard-AI-Network-Threat-Detection/
 
 Make sure Python 3.8+ is installed.
 
+```bash
 pip install -r requirements.txt
+```
+
 If using a virtual environment (recommended):
 
-bash
-Copy
-Edit
+```bash
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+```
 
 ---
 
 ## 🚀 Run the Project
 
+```bash
 python3 src/preprocessing_and_training.py
+```
 
 ---
 
 ## 📊 Model Performance
 
-Metric	Value
-Accuracy	~94.88%
-Classifiers	XGBoost, KNN
-Categories	DDoS, DoS, MITM, Benign
+- Metric	Value Accuracy:	~94.88%
+- Classifiers:	XGBoost, KNN
+- Categories:	DDoS, DoS, MITM, Benign
 
 ---
 
@@ -74,17 +77,17 @@ Categories	DDoS, DoS, MITM, Benign
 
 All supporting documents are available in the /docs folder:
 
-Architecture Document
+- Architecture Document
 
-Functional Document
+- Functional Document
 
-Final Report
+- Final Report
 
-Review Presentations (1 to 3)
+- Review Presentations (1 to 3)
 
-Sprint Retrospective
+- Sprint Retrospective
 
-Functional Test Cases
+- Functional Test Cases
 
 ---
 
@@ -94,6 +97,7 @@ V. Venkat Aditya
 SRM Institute of Science and Technology
 Reg. No.: RA2111003011799
 
+---
 
 ## ⚠️ Disclaimer
 
