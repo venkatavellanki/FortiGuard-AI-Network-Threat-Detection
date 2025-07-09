@@ -43,10 +43,13 @@ Make sure Python 3.8+ is installed.
 ```bash
 pip install -r requirements.txt
 ```
+---
 
 ## 🚀 Run the Notebook
 
 jupyter notebook src/preprocessing_and_training.ipynb
+
+---
 
 ## 📊 Model Performance
 
@@ -55,6 +58,8 @@ jupyter notebook src/preprocessing_and_training.ipynb
 - 🧠 Classifiers: XGBoost, KNN
 
 - 📌 Categories Detected: ddos, dos, mitm, benign
+
+---
 
 ## 📚 Documents & Reports
 
@@ -72,11 +77,15 @@ All project documentation is available inside the /docs folder, including:
 
 - Functional Test Cases
 
+---
+
 ## 👨‍💻 Developer Info
 
 V. Venkat Aditya
 SRM Institute of Science and Technology
 Reg No: RA2111003011799
+
+---
 
 ## ⚠️ Disclaimer
 
