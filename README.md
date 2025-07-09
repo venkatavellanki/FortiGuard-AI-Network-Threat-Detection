@@ -35,7 +35,6 @@ FortiGuard-AI-Network-Threat-Detection/
 ├── README.md
 ├── .gitignore
 ├── requirements.txt
-├── LICENSE.md
 ```
 ---
 
