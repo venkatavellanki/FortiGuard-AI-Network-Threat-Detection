@@ -1,0 +1,11 @@
+duration,src_bytes,dst_bytes,protocol,packet_count,Label
+1.0,100,200,TCP,10,Benign
+2.0,150,300,TCP,12,DDoS
+0.5,50,100,UDP,5,DoS
+3.0,200,100,ICMP,8,MITM
+1.5,120,220,TCP,9,Benign
+2.2,160,310,UDP,11,DDoS
+1.1,80,180,ICMP,7,DoS
+2.5,210,130,TCP,13,MITM
+0.8,90,190,TCP,6,Benign
+3.1,250,330,UDP,14,DDoS 
